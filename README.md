@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @halukcelik
-- 👀 I’m interested in coding in the field of Bioinformatics and Biotechnology.
-- 🌱 I’m currently learning Python and German language
-- 💞️ I’m looking to collaborate on coding for public use android apps for prediction or diagnosis of phenomenon.
-- 📫 How to reach me? You can send to me a message or e-mail. 
+- 👀 I’m interested in coding in the field of Bioinformatics.
+- 🌱 I’m currently learning Python.
